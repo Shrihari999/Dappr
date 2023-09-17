@@ -74,6 +74,7 @@ font-weight: 400;
 line-height: 47px;
 letter-spacing: 0em;
 text-align: left;
+display:flex;
 
 
 
@@ -121,6 +122,7 @@ color:#9F9F9F;
 .boxes{
     display: flex;
     justify-content: space-evenly;
+    margin-left: 75px;
 
 }
 .rightbox{
@@ -297,6 +299,7 @@ padding-left: 13px;
     background:#483EFF;
     display:flex;
     justify-content: center;
+    margin-left:162px;
     
 
 }
