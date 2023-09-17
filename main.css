@@ -179,12 +179,12 @@ background-color: white;
 .content{
     display:flex;
     justify-content: center;
+    margin-left: 129px;
 }
 .computer{
 
     width: 456px;
     height: 507px;
-    margin-left: 129px;
     border-radius: 20px;
     box-shadow: 4px 7px 32px 0px #00000070;
     margin-top:100px;
