@@ -1,0 +1,572 @@
+.navbar{
+    
+    width: 1728px;
+    height: 127px;
+    background-color: #6F6AF7;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.dappr{
+    width: 215px;
+    height: 63px;
+    margin-top: 27px;
+    margin-left: 44px;
+    font-family: Delius Unicase;
+font-size: 61px;
+font-weight: 700;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.home{
+    width: 102px;
+    height: 33px;
+    margin-top: 42px;
+    margin-left:50px;
+    font-family: DM Sans;
+font-size: 36px;
+font-weight: 400;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.about{
+    width: 157px;
+    height: 36px;
+    margin-top: 41px;
+    margin-left: 50px;
+    font-family: DM Sans;
+font-size: 36px;
+font-weight: 400;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.information{
+    width: 199px;
+height: 36px;
+margin-top: 41px;
+margin-left: 50px;
+font-family: DM Sans;
+font-size: 36px;
+font-weight: 400;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+}
+.more{
+    width: 89px;
+    height: 36px;
+ margin-top: 4px;
+margin-left: 50px;
+font-family: DM Sans;
+font-size: 36px;
+font-weight: 400;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.searchcontainer{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 314px;
+    height: 57px;
+    margin-top: 36px;
+    margin-left: 50px;
+border-radius: 63px;
+background: #FFFFFF;
+text-align: left;
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color:#9F9F9F;
+
+}
+.searchicon{
+    width: 26px;
+    height: 26px;
+    margin-top:40px;
+    border-radius: 20px;
+    border:1px solid white;
+    background-color: white;
+    padding:10px;
+    margin-left: -60px;
+
+
+
+}
+.lineicon{
+    width: 67px;
+    height:46.6px;
+    margin-top: 38.84px;
+    margin-left: 50px;
+}
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.rightbox{
+    width: 1004px;
+    height: 656px;
+    margin-top:20px;
+    margin-left: 10ox;
+border-radius: 19px;
+background-color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content{
+    display:flex;
+    justify-content: center;
+}
+.computer{
+
+    width: 456px;
+    height: 507px;
+    margin-left: 129px;
+    border-radius: 20px;
+    box-shadow: 4px 7px 32px 0px #00000070;
+    margin-top:100px;
+}
+.message{
+    width: 972px;
+    height: 507px;
+    border-radius: 20px;
+    border: 6px;
+    background: linear-gradient(0deg, #E5D8FF, #E5D8FF),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background-color: green;
+    margin-left: 20px;
+    margin-top:100px;
+}
+.messagetext{
+font-size: 29px;
+font-weight: 400;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+font-family: DM Sans;
+width: 922px;
+height: 83px;
+margin-top:10px;
+margin-left:10px;
+
+}
+
+
+.box1{
+    width: 337px;
+    height: 145.48px;
+    margin-top:50px;
+    margin-left: 101px;
+border-radius: 11px;
+background: #929DFF;
+box-shadow: 0px 9px 31px 0px #00000066;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.04em;
+text-align: left;
+color:#FFFFFF;
+padding-left: 13px;
+
+
+}
+.box2{
+    width: 337px;
+    height: 145.48px;
+    margin-top:50px;
+    margin-left: 101px;
+border-radius: 11px;
+background: #734CF2;
+box-shadow: 0px 9px 31px 0px #00000066;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.04em;
+text-align: left;
+color:#FFFFFF;
+padding-left: 13px;
+
+}
+.box3{
+    width: 337px;
+    height: 145.48px;
+    margin-top:50px;
+    margin-left: 101px;
+border-radius: 11px;
+background: #D288FF;
+box-shadow: 0px 9px 31px 0px #00000066;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.04em;
+text-align: left;
+color:#FFFFFF;
+padding-left: 13px;
+
+
+}
+.box4{
+    width: 337px;
+    height: 145.48px;
+    margin-top:50px;
+    margin-left: 101px;
+border-radius: 11px;
+background: #000000;
+box-shadow: 0px 9px 31px 0px #00000066;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.04em;
+text-align: left;
+color:#FFFFFF;
+padding-left: 13px;
+
+
+}
+.container3{
+    width: 1542px;
+    height: 717px;
+    margin-top: 100px;
+    margin-left: 101px;
+    border-radius: 21px;
+    background:#483EFF;
+    display:flex;
+    justify-content: center;
+    
+
+}
+.leftbox{
+    height:656px;
+    width:430px;
+    margin-top:25px;
+    margin-left: 20px;
+}
+.nicebox1{
+    width: 397px;
+    height: 133px;
+    margin-top:10px; 
+    margin-left: 5px;
+    border-radius: 22px;
+    background:#BCE0F6;
+    box-shadow: 0px 6px 35px 0px #00000063;
+    font-family: DM Sans;
+font-size: 35px;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: 0.04em;
+text-align: center;
+box-sizing: border-box;
+padding-top:22px;
+
+
+
+
+
+}
+.nicebox2{
+    width: 397px;
+    height: 133px;
+    margin-top:110px;
+margin-left: 5px;
+border-radius: 22px;
+border: 5px solid #FFFFFF;
+font-family: DM Sans;
+font-size: 35px;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: 0.04em;
+text-align: center;
+box-sizing: border-box;
+padding-top:22px;
+
+
+
+
+
+}
+.nicebox3{
+    width: 397px;
+height: 133px;
+margin-top: 110px;
+margin-left: 5px;
+border-radius: 22px;
+border: 5px solid #FFFFFF;
+font-family: DM Sans;
+font-size: 35px;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: 0.04em;
+text-align: center;
+box-sizing: border-box;
+padding-top:22px;
+
+
+}
+.rightbox{
+    width: 1004px;
+    height: 656px;
+    margin-top:30px;
+    margin-left: 40px;
+
+border-radius: 19px;
+
+
+}
+.texttop{
+    width: 370px;
+height: 36px;
+margin-top:20px;
+margin-left:20px;
+font-family: Inter;
+font-size: 38px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0.105em;
+text-align: left;
+color: #04285A;
+
+
+}
+.something{
+    display: flex;
+    justify-content:flex-start;
+}
+.questions{
+    margin-left:20px;
+}
+.next{
+    width: 207px;
+    height: 78px;
+    margin-top:260px;
+    margin-left:620px;
+    ;
+   border-radius: 9px;
+   background-color: #000000;
+
+   
+
+
+
+
+}
+.nexttext{
+    width: 67px;
+height: 28px;
+margin-left:2px;
+font-family: Roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0.05em;
+text-align: left;
+background-color: #000000;
+color:white;
+margin-top: 20px;
+margin-left:45px;
+
+}
+.arrow{
+    width: 30px;
+border: 3px;
+
+}
+.name{
+    font-family: Roboto;
+font-size: 28px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0.105em;
+text-align: left;
+width: 85px;
+height: 26px;
+
+
+
+}
+.email{
+    font-family: Roboto;
+font-size: 28px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0.105em;
+text-align: left;
+width: 88px;
+height: 26px;
+
+
+
+
+}
+.Phone{
+    font-family: Roboto;
+font-size: 28px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0.105em;
+text-align: left;
+width: 99px;
+height: 26px;
+
+
+
+
+
+}
+.Marks{
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    width: 99px;
+height: 26px;
+    
+
+}
+
+
+.para1{
+    width: 153px;
+    height: 22px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color:#04285A;
+
+
+}
+
+
+.para2{
+    width: 216px;
+    height: 22px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color:#04285A;
+    margin-top: 30px;
+    padding:2px 3px;
+
+
+
+
+
+}
+.para3{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color:#04285A;
+    width: 216px;
+    height: 22px;
+    margin-top:20px;
+
+
+
+}
+.para4{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color:#04285A;
+    width: 90px;
+    height: 22px;
+    margin-top: 39px;
+
+
+
+}
+.scrollable{
+    position:fixed;
+    top:150px;
+    right:0px;
+}
+.details{
+    margin-top:10px;
+}
+.bot{
+position:fixed;
+    width: 120px;
+height: 120px;
+top: 700px;
+right: 4px;;
+
+}
