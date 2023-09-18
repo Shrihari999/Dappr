@@ -1,3 +1,7 @@
+*{
+    padding:0;
+    margin:0;
+}
 .navbar{
     
     width: 1728px;
@@ -66,7 +70,7 @@ text-align: left;
 .more{
     width: 89px;
     height: 36px;
- margin-top: 4px;
+ margin-top: 36px;
 margin-left: 50px;
 font-family: DM Sans;
 font-size: 36px;
@@ -405,7 +409,7 @@ color: #04285A;
 .next{
     width: 207px;
     height: 78px;
-    margin-top:260px;
+    margin-top:300px;
     margin-left:620px;
     ;
    border-radius: 9px;
@@ -447,6 +451,7 @@ letter-spacing: 0.105em;
 text-align: left;
 width: 85px;
 height: 26px;
+margin-top:20px;
 
 
 
@@ -460,6 +465,7 @@ letter-spacing: 0.105em;
 text-align: left;
 width: 88px;
 height: 26px;
+margin-top:20px;
 
 
 
@@ -474,6 +480,7 @@ letter-spacing: 0.105em;
 text-align: left;
 width: 99px;
 height: 26px;
+margin-top: 20px;;
 
 
 
@@ -489,6 +496,7 @@ height: 26px;
     text-align: left;
     width: 99px;
 height: 26px;
+margin-top: 20px;;
     
 
 }
@@ -504,6 +512,7 @@ height: 26px;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
+    margin-top:13px;
 
 
 }
@@ -519,7 +528,7 @@ height: 26px;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
-    margin-top: 30px;
+    margin-top: 21px;;
     padding:2px 3px;
 
 
@@ -537,7 +546,7 @@ height: 26px;
     color:#04285A;
     width: 216px;
     height: 22px;
-    margin-top:20px;
+    margin-top :23px;
 
 
 
@@ -552,7 +561,8 @@ height: 26px;
     color:#04285A;
     width: 90px;
     height: 22px;
-    margin-top: 39px;
+    margin-top: 25px;
+    margin-left: 2px;;
 
 
 
