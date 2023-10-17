@@ -2,24 +2,27 @@
     padding:0;
     margin:0;
 }
+html{
+    font-size: 1px;
+}
 .navbar{
     
     width: 100%;
-    height: 127px;
+    height: 127rem;
     background-color: #6F6AF7;
     display: flex;
     justify-content: space-evenly;
 
 }
 .dappr{
-    width: 215px;
-    height: 63px;
-    margin-top: 27px;
-    margin-left: 44px;
+    width: 215rem;
+    height: 63rem;
+    margin-top: 27rem;
+    margin-left: 44rem;
     font-family: Delius Unicase;
-font-size: 61px;
+font-size: 61rem;
 font-weight: 700;
-line-height: 79px;
+line-height: 79rem;
 letter-spacing: 0em;
 text-align: left;
 
@@ -27,14 +30,14 @@ text-align: left;
 
 }
 .home{
-    width: 102px;
-    height: 33px;
-    margin-top: 42px;
-    margin-left:50px;
+    width: 102rem;
+    height: 33rem;
+    margin-top: 42rem;
+    margin-left:50rem;
     font-family: DM Sans;
-font-size: 36px;
+font-size: 36rem;
 font-weight: 400;
-line-height: 47px;
+line-height: 47rem;
 letter-spacing: 0em;
 text-align: left;
 
@@ -42,40 +45,40 @@ text-align: left;
 
 }
 .about{
-    width: 157px;
-    height: 36px;
-    margin-top: 41px;
-    margin-left: 50px;
+    width: 157rem;
+    height: 36rem;
+    margin-top: 41rem;
+    margin-left: 50rem;
     font-family: DM Sans;
-font-size: 36px;
+font-size: 36rem;
 font-weight: 400;
-line-height: 47px;
+line-height: 47rem;
 letter-spacing: 0em;
 text-align: left;
 
 
 }
 .information{
-    width: 199px;
-height: 36px;
-margin-top: 41px;
-margin-left: 50px;
+    width: 199rem;
+height: 36rem;
+margin-top: 41rem;
+margin-left: 50rem;
 font-family: DM Sans;
-font-size: 36px;
+font-size: 36rem;
 font-weight: 400;
-line-height: 47px;
+line-height: 47rem;
 letter-spacing: 0em;
 text-align: left;
 }
 .more{
-    width: 89px;
-    height: 36px;
- margin-top: 36px;
-margin-left: 50px;
+    width: 89rem;
+    height: 36rem;
+ margin-top: 36rem;
+margin-left: 50rem;
 font-family: DM Sans;
-font-size: 36px;
+font-size: 36rem;
 font-weight: 400;
-line-height: 47px;
+line-height: 47rem;
 letter-spacing: 0em;
 text-align: left;
 display:flex;
@@ -88,53 +91,53 @@ display:flex;
     justify-content: center;
 }
 .btn{
-    width: 314px;
-    height: 57px;
-    margin-top: 36px;
-    margin-left: 50px;
-border-radius: 63px;
+    width: 314rem;
+    height: 57rem;
+    margin-top: 36rem;
+    margin-left: 50rem;
+border-radius: 63rem;
 background: #FFFFFF;
 text-align: left;
 font-family: DM Sans;
-font-size: 24px;
+font-size: 24rem;
 font-weight: 400;
-line-height: 32px;
+line-height: 32rem;
 letter-spacing: 0em;
 text-align: left;
 color:#9F9F9F;
 
 }
 .searchicon{
-    width: 26px;
-    height: 26px;
-    margin-top:40px;
-    border-radius: 20px;
-    border:1px solid white;
+    width: 26rem;
+    height: 26rem;
+    margin-top:40rem;
+    border-radius: 20rem;
+    border:1rem solid white;
     background-color: white;
-    padding:10px;
-    margin-left: -60px;
+    padding:10rem;
+    margin-left: -60rem;
 
 
 
 }
 .lineicon{
-    width: 67px;
-    height:46.6px;
-    margin-top: 38.84px;
-    margin-left: 50px;
+    width: 67rem;
+    height:46.6rem;
+    margin-top: 38.84rem;
+    margin-left: 50rem;
 }
 .boxes{
     display: flex;
     justify-content: space-evenly;
-    margin-left: 75px;
+    margin-left: 75rem;
 
 }
 .rightbox{
-    width: 1004px;
-    height: 656px;
-    margin-top:20px;
+    width: 1004rem;
+    height: 656rem;
+    margin-top:20rem;
     margin-left: 10ox;
-border-radius: 19px;
+border-radius: 19rem;
 background-color: white;
 
 }
@@ -183,152 +186,152 @@ background-color: white;
 .content{
     display:flex;
     justify-content: center;
-    margin-left: 101px;
+    margin-left: 101rem;
 }
 .computer{
 
-    width: 456px;
-    height: 507px;
-    border-radius: 20px;
-    box-shadow: 4px 7px 32px 0px #00000070;
-    margin-top:100px;
+    width: 456rem;
+    height: 507rem;
+    border-radius: 20rem;
+    box-shadow: 4rem 7rem 32rem 0rem #00000070;
+    margin-top:100rem;
 }
 .message{
-    width: 972px;
-    height: 507px;
-    border-radius: 20px;
-    border: 6px;
+    width: 972rem;
+    height: 507rem;
+    border-radius: 20rem;
+    border: 6rem;
     background: linear-gradient(0deg, #E5D8FF, #E5D8FF),
 linear-gradient(0deg, #FFFFFF, #FFFFFF);
     background-color: green;
-    margin-left: 20px;
-    margin-top:100px;
+    margin-left: 20rem;
+    margin-top:100rem;
 }
 .messagetext{
-font-size: 29px;
+font-size: 29rem;
 font-weight: 400;
-line-height: 52px;
+line-height: 52rem;
 letter-spacing: 0em;
 text-align: left;
 font-family: DM Sans;
-width: 922px;
-height: 83px;
-margin-top:10px;
-margin-left:10px;
+width: 922rem;
+height: 83rem;
+margin-top:10rem;
+margin-left:10rem;
 
 }
 
 
 .box1{
-    width: 337px;
-    height: 145.48px;
-    margin-top:50px;
-    margin-left: 101px;
-border-radius: 11px;
+    width: 337rem;
+    height: 145.48rem;
+    margin-top:50rem;
+    margin-left: 101rem;
+border-radius: 11rem;
 background: #929DFF;
-box-shadow: 0px 9px 31px 0px #00000066;
+box-shadow: 0rem 9rem 31rem 0rem #00000066;
 font-family: DM Sans;
-font-size: 29px;
+font-size: 29rem;
 font-weight: 700;
-line-height: 52px;
+line-height: 52rem;
 letter-spacing: 0.04em;
 text-align: left;
 color:#FFFFFF;
-padding-left: 13px;
+padding-left: 13rem;
 
 
 }
 .box2{
-    width: 337px;
-    height: 145.48px;
-    margin-top:50px;
-    margin-left: 101px;
-border-radius: 11px;
+    width: 337rem;
+    height: 145.48rem;
+    margin-top:50rem;
+    margin-left: 101rem;
+border-radius: 11rem;
 background: #734CF2;
-box-shadow: 0px 9px 31px 0px #00000066;
+box-shadow: 0rem 9rem 31rem 0rem #00000066;
 font-family: DM Sans;
-font-size: 29px;
+font-size: 29rem;
 font-weight: 700;
-line-height: 52px;
+line-height: 52rem;
 letter-spacing: 0.04em;
 text-align: left;
 color:#FFFFFF;
-padding-left: 13px;
+padding-left: 13rem;
 
 }
 .box3{
-    width: 337px;
-    height: 145.48px;
-    margin-top:50px;
-    margin-left: 101px;
-border-radius: 11px;
+    width: 337rem;
+    height: 145.48rem;
+    margin-top:50rem;
+    margin-left: 101rem;
+border-radius: 11rem;
 background: #D288FF;
-box-shadow: 0px 9px 31px 0px #00000066;
+box-shadow: 0rem 9rem 31rem 0rem #00000066;
 font-family: DM Sans;
-font-size: 29px;
+font-size: 29rem;
 font-weight: 700;
-line-height: 52px;
+line-height: 52rem;
 letter-spacing: 0.04em;
 text-align: left;
 color:#FFFFFF;
-padding-left: 13px;
+padding-left: 13rem;
 
 
 }
 .box4{
-    width: 337px;
-    height: 145.48px;
-    margin-top:50px;
-    margin-left: 101px;
-border-radius: 11px;
+    width: 337rem;
+    height: 145.48rem;
+    margin-top:50rem;
+    margin-left: 101rem;
+border-radius: 11rem;
 background: #000000;
-box-shadow: 0px 9px 31px 0px #00000066;
+box-shadow: 0rem 9rem 31rem 0rem #00000066;
 font-family: DM Sans;
-font-size: 29px;
+font-size: 29rem;
 font-weight: 700;
-line-height: 52px;
+line-height: 52rem;
 letter-spacing: 0.04em;
 text-align: left;
 color:#FFFFFF;
-padding-left: 13px;
+padding-left: 13rem;
 
 
 }
 .container3{
-    width: 1542px;
-    height: 717px;
-    margin-top: 100px;
-    margin-left: 101px;
-    border-radius: 21px;
+    width: 1542rem;
+    height: 717rem;
+    margin-top: 100rem;
+    margin-left: 101rem;
+    border-radius: 21rem;
     background:#483EFF;
     display:flex;
     justify-content: center;
-    margin-left:200px;
+    margin-left:200rem;
     
 
 }
 .leftbox{
-    height:656px;
-    width:430px;
-    margin-top:25px;
-    margin-left: 20px;
+    height:656rem;
+    width:430rem;
+    margin-top:25rem;
+    margin-left: 20rem;
 }
 .nicebox1{
-    width: 397px;
-    height: 133px;
-    margin-top:10px; 
-    margin-left: 5px;
-    border-radius: 22px;
+    width: 397rem;
+    height: 133rem;
+    margin-top:10rem; 
+    margin-left: 5rem;
+    border-radius: 22rem;
     background:#BCE0F6;
-    box-shadow: 0px 6px 35px 0px #00000063;
+    box-shadow: 0rem 6rem 35rem 0rem #00000063;
     font-family: DM Sans;
-font-size: 35px;
+font-size: 35rem;
 font-weight: 700;
-line-height: 63px;
+line-height: 63rem;
 letter-spacing: 0.04em;
 text-align: center;
 box-sizing: border-box;
-padding-top:22px;
+padding-top:22rem;
 
 
 
@@ -336,20 +339,20 @@ padding-top:22px;
 
 }
 .nicebox2{
-    width: 397px;
-    height: 133px;
-    margin-top:110px;
-margin-left: 5px;
-border-radius: 22px;
-border: 5px solid #FFFFFF;
+    width: 397rem;
+    height: 133rem;
+    margin-top:110rem;
+margin-left: 5rem;
+border-radius: 22rem;
+border: 5rem solid #FFFFFF;
 font-family: DM Sans;
-font-size: 35px;
+font-size: 35rem;
 font-weight: 700;
-line-height: 63px;
+line-height: 63rem;
 letter-spacing: 0.04em;
 text-align: center;
 box-sizing: border-box;
-padding-top:22px;
+padding-top:22rem;
 
 
 
@@ -357,42 +360,42 @@ padding-top:22px;
 
 }
 .nicebox3{
-    width: 397px;
-height: 133px;
-margin-top: 110px;
-margin-left: 5px;
-border-radius: 22px;
-border: 5px solid #FFFFFF;
+    width: 397rem;
+height: 133rem;
+margin-top: 110rem;
+margin-left: 5rem;
+border-radius: 22rem;
+border: 5rem solid #FFFFFF;
 font-family: DM Sans;
-font-size: 35px;
+font-size: 35rem;
 font-weight: 700;
-line-height: 63px;
+line-height: 63rem;
 letter-spacing: 0.04em;
 text-align: center;
 box-sizing: border-box;
-padding-top:22px;
+padding-top:22rem;
 
 
 }
 .rightbox{
-    width: 1004px;
-    height: 656px;
-    margin-top:30px;
-    margin-left: 40px;
+    width: 1004rem;
+    height: 656rem;
+    margin-top:30rem;
+    margin-left: 40rem;
 
-border-radius: 19px;
+border-radius: 19rem;
 
 
 }
 .texttop{
-    width: 370px;
-height: 36px;
-margin-top:20px;
-margin-left:20px;
+    width: 370rem;
+height: 36rem;
+margin-top:20rem;
+margin-left:20rem;
 font-family: Inter;
-font-size: 38px;
+font-size: 38rem;
 font-weight: 700;
-line-height: 46px;
+line-height: 46rem;
 letter-spacing: 0.105em;
 text-align: left;
 color: #04285A;
@@ -404,15 +407,15 @@ color: #04285A;
     justify-content:flex-start;
 }
 .questions{
-    margin-left:20px;
+    margin-left:20rem;
 }
 .next{
-    width: 207px;
-    height: 78px;
-    margin-top:300px;
-    margin-left:620px;
+    width: 207rem;
+    height: 78rem;
+    margin-top:300rem;
+    margin-left:620rem;
     ;
-   border-radius: 9px;
+   border-radius: 9rem;
    background-color: #000000;
 
    
@@ -422,50 +425,50 @@ color: #04285A;
 
 }
 .nexttext{
-    width: 67px;
-height: 28px;
-margin-left:2px;
+    width: 67rem;
+height: 28rem;
+margin-left:2rem;
 font-family: Roboto;
-font-size: 30px;
+font-size: 30rem;
 font-weight: 400;
-line-height: 35px;
+line-height: 35rem;
 letter-spacing: 0.05em;
 text-align: left;
 background-color: #000000;
 color:white;
-margin-top: 20px;
-margin-left:45px;
+margin-top: 20rem;
+margin-left:45rem;
 
 }
 .arrow{
-    width: 30px;
-border: 3px;
+    width: 30rem;
+border: 3rem;
 
 }
 .name{
     font-family: Roboto;
-font-size: 28px;
+font-size: 28rem;
 font-weight: 500;
-line-height: 33px;
+line-height: 33rem;
 letter-spacing: 0.105em;
 text-align: left;
-width: 85px;
-height: 26px;
-margin-top:20px;
+width: 85rem;
+height: 26rem;
+margin-top:20rem;
 
 
 
 }
 .email{
     font-family: Roboto;
-font-size: 28px;
+font-size: 28rem;
 font-weight: 500;
-line-height: 33px;
+line-height: 33rem;
 letter-spacing: 0.105em;
 text-align: left;
-width: 88px;
-height: 26px;
-margin-top:20px;
+width: 88rem;
+height: 26rem;
+margin-top:20rem;
 
 
 
@@ -473,14 +476,14 @@ margin-top:20px;
 }
 .Phone{
     font-family: Roboto;
-font-size: 28px;
+font-size: 28rem;
 font-weight: 500;
-line-height: 33px;
+line-height: 33rem;
 letter-spacing: 0.105em;
 text-align: left;
-width: 99px;
-height: 26px;
-margin-top: 20px;;
+width: 99rem;
+height: 26rem;
+margin-top: 20rem;;
 
 
 
@@ -489,47 +492,47 @@ margin-top: 20px;;
 }
 .Marks{
     font-family: Roboto;
-    font-size: 28px;
+    font-size: 28rem;
     font-weight: 500;
-    line-height: 33px;
+    line-height: 33rem;
     letter-spacing: 0.105em;
     text-align: left;
-    width: 99px;
-height: 26px;
-margin-top: 20px;;
+    width: 99rem;
+height: 26rem;
+margin-top: 20rem;;
     
 
 }
 
 
 .para1{
-    width: 153px;
-    height: 22px;
+    width: 153rem;
+    height: 22rem;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 24rem;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 28rem;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
-    margin-top:13px;
+    margin-top:13rem;
 
 
 }
 
 
 .para2{
-    width: 216px;
-    height: 22px;
+    width: 216rem;
+    height: 22rem;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 24rem;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 28rem;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
-    margin-top: 21px;;
-    padding:2px 3px;
+    margin-top: 21rem;;
+    padding:2rem 3rem;
 
 
 
@@ -538,48 +541,48 @@ margin-top: 20px;;
 }
 .para3{
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 24rem;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 28rem;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
-    width: 216px;
-    height: 22px;
-    margin-top :23px;
+    width: 216rem;
+    height: 22rem;
+    margin-top :23rem;
 
 
 
 }
 .para4{
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 24rem;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 28rem;
     letter-spacing: 0.05em;
     text-align: left;
     color:#04285A;
-    width: 90px;
-    height: 22px;
-    margin-top: 25px;
-    margin-left: 2px;;
+    width: 90rem;
+    height: 22rem;
+    margin-top: 25rem;
+    margin-left: 2rem;;
 
 
 
 }
 .scrollable{
     position:fixed;
-    top:150px;
-    right:0px;
+    top:150rem;
+    right:0rem;
 }
 .details{
-    margin-top:10px;
+    margin-top:10rem;
 }
 .bot{
 position:fixed;
-    width: 120px;
-height: 120px;
-top: 700px;
-right: 4px;;
+    width: 120rem;
+height: 120rem;
+top: 700rem;
+right: 4rem;;
 
 }
